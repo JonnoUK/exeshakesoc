@@ -3,6 +3,8 @@ body {
 background-color: white;
 color: white;
 margin: 0;
+height: 100%;
+min-height: 100%;
 }
 
 h2 {
@@ -13,12 +15,13 @@ h2 {
 a {
 
   color: white;
+  text-decoration: none;
 }
 
 .trailer {
 
   height: auto;
-  width: auto;
+  width: 100%;
 }
 
 .topBar {
@@ -54,9 +57,8 @@ width: auto;
 
 
 .middleBar {
-height: 80%;
 background-color: #1f262b;
-
+height: auto;
 }
 
 .footer {
