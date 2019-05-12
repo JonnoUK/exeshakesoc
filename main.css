@@ -2,4 +2,64 @@ body {
 
 background-color: black;
 color: white;
+margin: 0;
+}
+
+.trailer {
+
+  height: auto;
+  width: auto;
+}
+
+.topBar {
+
+background-color: white;
+width: auto;
+height: 75px;
+text-align: left;
+padding-top: 10px;
+padding-bottom: 60px;
+}
+
+.logo {
+height: 75px;
+width: auto;
+
+}
+
+.bodoni {
+  color: black;
+  text-align: center;
+}
+
+
+.middleBar {
+
+
+}
+
+.footer {
+
+
+}
+
+.socialMedia {
+
+  text-align: center;
+}
+
+#fb_link {
+max-width: 25px;
+}
+
+
+#t_link {
+max-width: 25px;
+margin-left: 10px;
+margin-bottom: 2px;
+}
+
+#i_link {
+max-width: 25px;
+margin-left: 10px;
 }
